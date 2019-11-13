@@ -26,7 +26,8 @@ module.exports = {
           ],
           Tutorial: [
             'tutorial/tutorial_0',
-            'tutorial/tutorial_1'
+            'tutorial/tutorial_1',
+            'tutorial/tutorial_2'
           ],
           Usage:[
             'downloading-schema',
